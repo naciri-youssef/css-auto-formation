@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: blue;
+}
+#error{
+    color: red;
+}
+.blue{
+    color: blue;
+}
