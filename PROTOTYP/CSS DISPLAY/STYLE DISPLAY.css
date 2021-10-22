@@ -1,0 +1,14 @@
+.paragraph1{
+    display: inline;
+    background: #00ff00;
+    padding: 10px;
+}
+ul li {
+    display: block;
+    margin: 10px;
+}
+.paragraph2{
+    display: inline-flex;
+    background: #00ff00;
+    padding: 10px;
+}
